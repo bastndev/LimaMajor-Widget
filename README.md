@@ -3,6 +3,6 @@
 A new Flutter project.
 **ScreenShot**
 
-  <div>
-    <img src="/assets/ScreenShot/" alt="">
-  </div>
+<div align="center">
+  <img src="/assets/ScreenShot/LimaMj.png" alt="">
+</div>
